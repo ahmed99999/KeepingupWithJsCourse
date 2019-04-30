@@ -53,6 +53,8 @@ const whatTaste = function (cake, isVanila, isChocolate) {
         } else {
             console.log(`this ${cake} is chocolate`);
         }
+    } else {
+        console.log(`this ${cake} is neither chocolate nore vanila`);
     }
 }
 

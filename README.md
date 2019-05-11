@@ -9,3 +9,21 @@ This is a JS course that covers all Java Scirpt ES6, with homeworks and projets.
 3- #HomeWork3 : if Statments : => this homework covers if statment and the logical operators (AND, OR, ..) I wrote two simple functions using some best if practices and Eror catching.
 
 4- #HomeWork4 : functions : this homework coves functions : arrow functions , map, filter, reduce and other => I rewrote the two functions in the last homeWork to match ES6 standerds and best bractises.
+
+5- #HomeWork5 : switch statment : this homework covers how switch statments work, it's usualy bad design to use switch statments, i prepwe usuing something as folows : 
+    const obj = {
+        value : function(){
+            // code
+            return data;
+        },
+        value1 : function(){
+            // code
+            return data;
+        },
+        value2 : function(){
+            // code
+            return data;
+        }
+    }
+
+ but it's required to know how switch statment work.

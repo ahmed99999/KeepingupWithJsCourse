@@ -42,5 +42,5 @@ const timeAdder = (value1, label1, value2, label2) => {
     return modulo;
 }
 
-const result = timeAdder(24, 'hours', 60, 'minutes');
+const result = timeAdder(23, 'hours', 60, 'minutes');
 console.log(result);
